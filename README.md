@@ -1,6 +1,7 @@
-# Домашнее задание
-- Создай репозиторий goit-markup-hw-02.
-- Переведи макет страницы в HTML-разметку, без CSS оформления.
-- Готовые изображения возьми тут и сохрани в подпапке images в папке проекта.
-- Весь текстовый контент абзацей замени текстом-рыбой, а остальное скопируй из макета.
-- Настрой раздачу статики с GitHub Pages и добавь ссылку на живую страницу в шапку GitHub-репозитория.
+
+### GoIT HTML&CSS home work 2
+
+[Link to the task](https://github.com/luxplanjay/html-css-homework/tree/master/02-html)
+
+[Link to the working React App](https://ghileors.github.io/goit-markup-hw-02/)
+
