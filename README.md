@@ -3,5 +3,5 @@
 
 [Link to the task](https://github.com/luxplanjay/html-css-homework/tree/master/02-html)
 
-[Link to the working React App](https://ghileors.github.io/goit-markup-hw-02/)
+[Link to the GitHub Pages](https://ghileors.github.io/goit-markup-hw-02/)
 
